@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5a15b0ec2f54a0108ffdd2172799b68c" sys_domain="global" table="x_544549_employee_emp_sug_box" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 09:05:53</sys_created_on>
+            <sys_id>3f3595e42fd4a0108ffdd2172799b6ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_544549_employee_emp_sug_box" sys_domain="global" view="Default view">5a15b0ec2f54a0108ffdd2172799b68c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 09:05:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 09:05:53</sys_created_on>
+            <sys_id>b33595e42fd4a0108ffdd2172799b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_544549_employee_emp_sug_box" sys_domain="global" view="Default view">5a15b0ec2f54a0108ffdd2172799b68c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 09:05:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 09:05:53</sys_created_on>
+            <sys_id>373595e42fd4a0108ffdd2172799b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_544549_employee_emp_sug_box" sys_domain="global" view="Default view">5a15b0ec2f54a0108ffdd2172799b68c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 09:05:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 09:05:53</sys_created_on>
+            <sys_id>b73595e42fd4a0108ffdd2172799b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_544549_employee_emp_sug_box" sys_domain="global" view="Default view">5a15b0ec2f54a0108ffdd2172799b68c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 09:05:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 09:05:53</sys_created_on>
+            <sys_id>3b3595e42fd4a0108ffdd2172799b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_544549_employee_emp_sug_box" sys_domain="global" view="Default view">5a15b0ec2f54a0108ffdd2172799b68c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 09:05:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 09:05:53</sys_created_on>
+            <sys_id>bb3595e42fd4a0108ffdd2172799b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_544549_employee_emp_sug_box" sys_domain="global" view="Default view">5a15b0ec2f54a0108ffdd2172799b68c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 09:05:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_544549_employee_emp_sug_box</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 06:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a15b0ec2f54a0108ffdd2172799b68c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_544549_employee_emp_sug_box</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Suggestion Box" source="x_544549_employee">126ee82c2f54a0108ffdd2172799b6c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Suggestion Box">126ee82c2f54a0108ffdd2172799b6c8</sys_scope>
+            <sys_update_name>sys_ui_section_5a15b0ec2f54a0108ffdd2172799b68c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 06:45:25</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

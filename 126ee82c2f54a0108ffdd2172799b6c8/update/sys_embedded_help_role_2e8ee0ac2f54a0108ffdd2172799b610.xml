@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_544549_employee.employee" name="x_544549_employee.employee">2e8ea0602f50a0108ffdd2172799b616</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 06:16:45</sys_created_on>
+        <sys_id>2e8ee0ac2f54a0108ffdd2172799b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2e8ea0602f50a0108ffdd2172799b616</sys_name>
+        <sys_package display_value="Employee Suggestion Box" source="x_544549_employee">126ee82c2f54a0108ffdd2172799b6c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Suggestion Box">126ee82c2f54a0108ffdd2172799b6c8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2e8ee0ac2f54a0108ffdd2172799b610</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 06:16:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

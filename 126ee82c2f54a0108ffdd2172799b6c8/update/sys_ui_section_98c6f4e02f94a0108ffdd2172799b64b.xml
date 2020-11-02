@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="My Idea" section_id="98c6f4e02f94a0108ffdd2172799b64b" sys_domain="global" table="x_544549_employee_emp_sug_box" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 06:52:40</sys_created_on>
+            <sys_id>e4c6f4e02f94a0108ffdd2172799b6d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_544549_employee_emp_sug_box" sys_domain="global" view="Default view">98c6f4e02f94a0108ffdd2172799b64b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 06:52:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 06:52:40</sys_created_on>
+            <sys_id>68c6f4e02f94a0108ffdd2172799b6d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_544549_employee_emp_sug_box" sys_domain="global" view="Default view">98c6f4e02f94a0108ffdd2172799b64b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 06:52:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>My Idea</caption>
+            <header>false</header>
+            <name>x_544549_employee_emp_sug_box</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 06:52:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98c6f4e02f94a0108ffdd2172799b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_544549_employee_emp_sug_box</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Suggestion Box" source="x_544549_employee">126ee82c2f54a0108ffdd2172799b6c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Suggestion Box">126ee82c2f54a0108ffdd2172799b6c8</sys_scope>
+            <sys_update_name>sys_ui_section_98c6f4e02f94a0108ffdd2172799b64b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 06:52:39</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
