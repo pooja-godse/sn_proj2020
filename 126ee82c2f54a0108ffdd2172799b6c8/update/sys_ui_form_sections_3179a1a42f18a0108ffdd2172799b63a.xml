@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3179a1a42f18a0108ffdd2172799b63a" sys_domain="global" table="x_544549_employee_emp_sug_box" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 10:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d79a1a42f18a0108ffdd2172799b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_544549_employee_emp_sug_box" name="x_544549_employee_emp_sug_box" sys_domain="global" view="a979a1a42f18a0108ffdd2172799b632">3179a1a42f18a0108ffdd2172799b63a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_544549_employee_emp_sug_box" sys_domain="global" view="a979a1a42f18a0108ffdd2172799b632">7979a1a42f18a0108ffdd2172799b637</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 10:34:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 10:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3979a1a42f18a0108ffdd2172799b63d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_544549_employee_emp_sug_box" name="x_544549_employee_emp_sug_box" sys_domain="global" view="a979a1a42f18a0108ffdd2172799b632">3179a1a42f18a0108ffdd2172799b63a</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_544549_employee_emp_sug_box" sys_domain="global" view="a979a1a42f18a0108ffdd2172799b632">fd79a1a42f18a0108ffdd2172799b638</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 10:34:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_544549_employee_emp_sug_box</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 10:34:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3179a1a42f18a0108ffdd2172799b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_544549_employee_emp_sug_box</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Suggestion Box" source="x_544549_employee">126ee82c2f54a0108ffdd2172799b6c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Suggestion Box">126ee82c2f54a0108ffdd2172799b6c8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3179a1a42f18a0108ffdd2172799b63a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 10:34:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="user" name="user">a979a1a42f18a0108ffdd2172799b632</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
